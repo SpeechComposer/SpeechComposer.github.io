@@ -24,7 +24,7 @@ navigation:
     - title: Samples
       url: /samples
     - title: Code
-      url: /contact
+      url: /code
 
 social:
     github: brianmaierjr
