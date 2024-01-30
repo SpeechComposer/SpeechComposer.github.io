@@ -31,13 +31,13 @@ title: Audio Samples
 	<tr>
       <td>SpeechComposer-Pretrained:</td>
       <td> 
-	  	<audio controls="controls"><source src="/assets/audio/tts/1089_134686_000015_000004_base.wav" type="audio/wav"></audio>
+	  	<audio controls="controls"><source src="/assets/audio/tts/1089_134686_000015_000004_pretrained.wav" type="audio/wav"></audio>
 	  </td>
 	</tr>
 	<tr>
       <td>SpeechComposer-Large:</td>
       <td>
-	  	<audio controls="controls"><source src="/assets/audio/tts/1089_134686_000015_000004_base.wav" type="audio/wav"></audio>
+	  	<audio controls="controls"><source src="/assets/audio/tts/1089_134686_000015_000004_large.wav" type="audio/wav"></audio>
 	  </td>
 	</tr>
 	</table>
@@ -65,13 +65,13 @@ title: Audio Samples
 	<tr>
       <td>SpeechComposer-Pretrained:</td>
       <td> 
-	  	<audio controls="controls"><source src="/assets/audio/tts/1089_134686_000022_000001_base.wav" type="audio/wav"></audio>
+	  	<audio controls="controls"><source src="/assets/audio/tts/1089_134686_000022_000001_pretrained.wav" type="audio/wav"></audio>
 	  </td>
 	</tr>
 	<tr>
       <td>SpeechComposer-Large:</td>
       <td>
-	  	<audio controls="controls"><source src="/assets/audio/tts/1089_134686_000022_000001_base.wav" type="audio/wav"></audio>
+	  	<audio controls="controls"><source src="/assets/audio/tts/1089_134686_000022_000001_large.wav" type="audio/wav"></audio>
 	  </td>
 	</tr>
 	</table>
@@ -99,13 +99,13 @@ title: Audio Samples
 	<tr>
       <td>SpeechComposer-Pretrained:</td>
       <td> 
-	  	<audio controls="controls"><source src="/assets/audio/tts/1089_134686_000027_000001_base.wav" type="audio/wav"></audio>
+	  	<audio controls="controls"><source src="/assets/audio/tts/1089_134686_000027_000001_pretrained.wav" type="audio/wav"></audio>
 	  </td>
 	</tr>
 	<tr>
       <td>SpeechComposer-Large:</td>
       <td>
-	  	<audio controls="controls"><source src="/assets/audio/tts/1089_134686_000027_000001_base.wav" type="audio/wav"></audio>
+	  	<audio controls="controls"><source src="/assets/audio/tts/1089_134686_000027_000001_large.wav" type="audio/wav"></audio>
 	  </td>
 	</tr>
 	</table>
@@ -133,13 +133,13 @@ title: Audio Samples
 	<tr>
       <td>SpeechComposer-Pretrained:</td>
       <td> 
-	  	<audio controls="controls"><source src="/assets/audio/tts/1089_134686_000034_000001_base.wav" type="audio/wav"></audio>
+	  	<audio controls="controls"><source src="/assets/audio/tts/1089_134686_000034_000001_pretrained.wav" type="audio/wav"></audio>
 	  </td>
 	</tr>
 	<tr>
       <td>SpeechComposer-Large:</td>
       <td>
-	  	<audio controls="controls"><source src="/assets/audio/tts/1089_134686_000015_000004_base.wav" type="audio/wav"></audio>
+	  	<audio controls="controls"><source src="/assets/audio/tts/1089_134686_000034_000001_large.wav" type="audio/wav"></audio>
 	  </td>
 	</tr>
    </table>
@@ -156,7 +156,7 @@ title: Audio Samples
 	<tr>
       <td>Reference speech:</td>
       <td>
-	  	<audio controls="controls"><source src="/assets/audio/vc/p239_001.wav" type="audio/wav"></audio>
+	  	<audio controls="controls"><source src="/assets/audio/vc/p239_015.wav" type="audio/wav"></audio>
 	  </td>
 	</tr>
 	<tr>
@@ -168,19 +168,19 @@ title: Audio Samples
 	<tr>
       <td>SpeechComposer-Base:</td>
       <td> 
-	  	<audio controls="controls"><source src="" type="/assets/audio/vc/p236_034_p239_037_pretrained.wav"></audio>
+	  	<audio controls="controls"><source src="/assets/audio/vc/p236_034_p239_037_base.wav" type="audio/wav"></audio>
 	  </td>
 	</tr>
 	<tr>
       <td>SpeechComposer-Pretrained:</td>
       <td>
-	  	<audio controls="controls"><source src="" type="/assets/audio/vc/p236_034_p239_037_pretrained.wav"></audio>
+	  	<audio controls="controls"><source src="/assets/audio/vc/p236_034_p239_037_pretrained.wav" type="audio/wav"></audio>
 	  </td>
 	</tr>
 	<tr>
       <td>SpeechComposer-Large:</td>
       <td>
-	  	<audio controls="controls"><source src="/assets/audio/vc/p236_034_p239_037_pretrained.wav" type="audio/wav"></audio>
+	  	<audio controls="controls"><source src="/assets/audio/vc/p236_034_p239_037_large.wav" type="audio/wav"></audio>
 	  </td>
 	</tr>
    </table>
@@ -195,7 +195,7 @@ title: Audio Samples
 	<tr>
       <td>Reference speech:</td>
       <td> 
-	  	<audio controls="controls"><source src="/assets/audio/vc/p239_001.wav" type="audio/wav"></audio>
+	  	<audio controls="controls"><source src="/assets/audio/vc/p239_015.wav" type="audio/wav"></audio>
 	  </td>
 	</tr>
 	<tr>
@@ -207,7 +207,7 @@ title: Audio Samples
 	<tr>
       <td>SpeechComposer-Base:</td>
       <td> 
-	  	<audio controls="controls"><source src="/assets/audio/vc/p236_075_p239_119_pretrained.wav" type="audio/wav"></audio>
+	  	<audio controls="controls"><source src="/assets/audio/vc/p236_075_p239_119_base.wav" type="audio/wav"></audio>
 	  </td>
 	</tr>
 	<tr>
@@ -219,7 +219,7 @@ title: Audio Samples
 	<tr>
       <td>SpeechComposer-Large:</td>
       <td>
-	  	<audio controls="controls"><source src="/assets/audio/vc/p236_075_p239_119_pretrained.wav" type="audio/wav"></audio>
+	  	<audio controls="controls"><source src="/assets/audio/vc/p236_075_p239_119_large.wav" type="audio/wav"></audio>
 	  </td>
 	</tr>
    </table>
@@ -246,7 +246,7 @@ title: Audio Samples
 	<tr>
       <td>SpeechComposer-Base:</td>
       <td> 
-	  	<audio controls="controls"><source src="/assets/audio/vc/p236_075_p274_437_pretrained.wav" type="audio/wav"></audio>
+	  	<audio controls="controls"><source src="/assets/audio/vc/p236_075_p274_437_base.wav" type="audio/wav"></audio>
 	  </td>
 	</tr>
 	<tr>
@@ -258,7 +258,7 @@ title: Audio Samples
 	<tr>
       <td>SpeechComposer-Large:</td>
       <td>
-	  	<audio controls="controls"><source src="/assets/audio/vc/p236_075_p274_437_pretrained.wav" type="audio/wav"></audio>
+	  	<audio controls="controls"><source src="/assets/audio/vc/p236_075_p274_437_large.wav" type="audio/wav"></audio>
 	  </td>
 	</tr>
    </table>
@@ -285,7 +285,7 @@ title: Audio Samples
 	<tr>
       <td>SpeechComposer-Base:</td>
       <td> 
-	  	<audio controls="controls"><source src="/assets/audio/vc/p236_083_p263_422_pretrained.wav" type="audio/wav"></audio>
+	  	<audio controls="controls"><source src="/assets/audio/vc/p236_083_p263_422_base.wav" type="audio/wav"></audio>
 	  </td>
 	</tr>
 	<tr>
@@ -297,13 +297,13 @@ title: Audio Samples
 	<tr>
       <td>SpeechComposer-Large:</td>
       <td>
-	  	<audio controls="controls"><source src="/assets/audio/vc/p236_083_p263_422_pretrained.wav" type="audio/wav"></audio>
+	  	<audio controls="controls"><source src="/assets/audio/vc/p236_083_p263_422_large.wav" type="audio/wav"></audio>
 	  </td>
 	</tr>
    </table>
 
    <p> 3. Speech enhancement (SE) </p>
-	<p>We demonstrate the capability of SpeechComposer on voice conversion tasks.</p>
+	<p>We demonstrate the capability of SpeechComposer on speech enhancement tasks.</p>
     <p>3.1 text: Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.  </p>
     <table style="margin: 2rem auto; width: 60%;">
     <tr>
@@ -321,13 +321,13 @@ title: Audio Samples
 	<tr>
       <td>SpeechComposer-Pretrained:</td>
       <td> 
-	  	<audio controls="controls"><source src="/assets/audio/se/p257_003_base.wav" type="audio/wav"></audio>
+	  	<audio controls="controls"><source src="/assets/audio/se/p257_003_large.wav" type="audio/wav"></audio>
 	  </td>
 	</tr>
 	<tr>
       <td>SpeechComposer-Large:</td>
       <td>
-	  	<audio controls="controls"><source src="/assets/audio/se/p257_003_base.wav" type="audio/wav"></audio>
+	  	<audio controls="controls"><source src="/assets/audio/se/p257_003_pretrained.wav" type="audio/wav"></audio>
 	  </td>
 	</tr>
    </table>
@@ -348,13 +348,13 @@ title: Audio Samples
 	<tr>
       <td>SpeechComposer-Pretrained:</td>
       <td> 
-	  	<audio controls="controls"><source src="/assets/audio/se/p257_007_base.wav" type="audio/wav"></audio>
+	  	<audio controls="controls"><source src="/assets/audio/se/p257_007_large.wav" type="audio/wav"></audio>
 	  </td>
 	</tr>
 	<tr>
       <td>SpeechComposer-Large:</td>
       <td>
-	  	<audio controls="controls"><source src="/assets/audio/se/p257_007_base.wav" type="audio/wav"></audio>
+	  	<audio controls="controls"><source src="/assets/audio/se/p257_007_pretrained.wav" type="audio/wav"></audio>
 	  </td>
 	</tr>
    </table>
@@ -375,17 +375,17 @@ title: Audio Samples
 	<tr>
       <td>SpeechComposer-Pretrained:</td>
       <td> 
-	  	<audio controls="controls"><source src="/assets/audio/se/p232_007_base.wav" type="audio/wav"></audio>
+	  	<audio controls="controls"><source src="/assets/audio/se/p232_007_large.wav" type="audio/wav"></audio>
 	  </td>
 	</tr>
 	<tr>
       <td>SpeechComposer-Large:</td>
       <td>
-	  	<audio controls="controls"><source src="/assets/audio/se/p232_007_base.wav" type="audio/wav"></audio>
+	  	<audio controls="controls"><source src="/assets/audio/se/p232_007_pretrained.wav" type="audio/wav"></audio>
 	  </td>
 	</tr>
    </table>
-	<p>1.4 text: People look, but no one ever finds it. </p>
+	<p>3.4 text: People look, but no one ever finds it. </p>
     <table style="margin: 2rem auto; width: 60%;">
     <tr>
       <td>Noisy speech:</td>
@@ -402,13 +402,13 @@ title: Audio Samples
 	<tr>
       <td>SpeechComposer-Pretrained:</td>
       <td> 
-	  	<audio controls="controls"><source src="/assets/audio/se/p232_010_base.wav" type="audio/wav"></audio>
+	  	<audio controls="controls"><source src="/assets/audio/se/p232_010_pretrained.wav" type="audio/wav"></audio>
 	  </td>
 	</tr>
 	<tr>
       <td>SpeechComposer-Large:</td>
       <td>
-	  	<audio controls="controls"><source src="/assets/audio/se/p232_010_base.wav" type="audio/wav"></audio>
+	  	<audio controls="controls"><source src="/assets/audio/se/p232_010_large.wav" type="audio/wav"></audio>
 	  </td>
 	</tr>
    </table>
